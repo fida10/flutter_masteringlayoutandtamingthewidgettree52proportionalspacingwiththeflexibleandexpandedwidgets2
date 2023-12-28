@@ -1,0 +1,6 @@
+package com.example.masteringlayoutandtamingthewidgettree52proportionalspacingwiththeflexibleandexpandedwidgets_customshapedrawingwithcustompaint
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
