@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
 class TrianglePainter extends CustomPainter {
   TrianglePainter(this.sideLength, this.color);
 
-  double sideLength;
+  double sideLength; //note that this is not actually used to calculate the side lengths anywhere in the class
   Color color;
 
   @override
